@@ -1,0 +1,42 @@
+.background_1 {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/reviews-bg.png');
+  background-size: cover;
+  margin: 0px;
+  text-align: center;
+}
+.background_2 {
+  text-align: center;
+  display: flex;
+  flex-direction: row;
+  padding-top: 20px;
+}
+.portfolio_div {
+  text-align: center;
+  padding-top: 20px;
+}
+.heading-css {
+  text-align: center;
+  padding-top: 100px;
+  color: white;
+  font-weight: bold;
+}
+.h1-name {
+  color: white;
+  font-weight: bold;
+  font-size: 30px;
+}
+.h2-job {
+  color: black;
+  padding-top: 20px;
+  font-size: 18px;
+}
+.para-des {
+  color: black;
+  padding-top: 20px;
+}
+.arrow-button {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  outline: none;
+}
